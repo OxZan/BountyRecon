@@ -46,7 +46,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/OxZan/BountyRecon.git
+git clone https://github.com/OxZan/BountyRecon-.git
 cd BountyRecon
 
 # Run installer (installs all tools and dependencies)
