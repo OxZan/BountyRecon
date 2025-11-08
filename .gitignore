@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Installation logs
+install_log_*.txt
+
+# Results and outputs (users' scan data)
+Results/
+reports/
+*.txt
+*.json
+!requirements.txt
+
+# Wordlists (too large for git)
+wordlists/
+SecLists/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Sensitive data
+*.key
+*.pem
+*.env
+config.json
+secrets.json
