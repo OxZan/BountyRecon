@@ -1291,8 +1291,7 @@ Contributions are welcome! Please feel free to submit issues and pull requests.
 ## 📧 Contact
 
 **Created by:** 0xZan  
-**GitHub:** [Your GitHub]  
-**Twitter:** [@YourTwitter]
+
 
 ---
 
